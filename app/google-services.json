@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665752906654",
+    "project_id": "easy-notes-7fc50",
+    "storage_bucket": "easy-notes-7fc50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665752906654:android:840181698374ec1871048f",
+        "android_client_info": {
+          "package_name": "com.example.easynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665752906654-2eupr91o2589rt341buin6eg71drtags.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easynotes",
+            "certificate_hash": "e7b32c082397ee1dc0be33267d9094b54643a91f"
+          }
+        },
+        {
+          "client_id": "665752906654-hoqcp3dmh4p4a4ruqrdb2ohrd7tthfu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Lm0fjlgHAmsdB071c0g_luMEarPfmK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665752906654-hoqcp3dmh4p4a4ruqrdb2ohrd7tthfu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
